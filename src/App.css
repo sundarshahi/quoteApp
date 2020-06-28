@@ -82,7 +82,7 @@ body {
   text-align: right;
   font-size: 14px;
   font-style: italic;
-  color: #84775c;
+  color: #836B48;
 }
 
 .lt-ie8 .notepaper {
@@ -94,7 +94,7 @@ body {
   font-size: 14px;
   font-weight: bold;
   color: rgb(250, 255, 251);
-  background-color: dodgerblue;
+  background-color: #1E78CC;
   border: none;
   cursor: pointer;
 }
