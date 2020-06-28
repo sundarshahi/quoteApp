@@ -92,7 +92,7 @@ body {
 .generate-btn {
   padding: 10px;
   font-size: 14px;
-  font-weight: 700px;
+  font-weight: bold;
   color: rgb(250, 255, 251);
   background-color: dodgerblue;
   border: none;
